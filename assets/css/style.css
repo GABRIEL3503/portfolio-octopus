@@ -731,7 +731,7 @@ section {
 
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(99, 25, 122, 0.534);
+  background: rgba(25, 83, 122, 0.678);
   position: absolute;
   left: 30px;
   right: 30px;
@@ -793,12 +793,14 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
+  font-weight: 500;
   color: white;
-  font-size: 14px;
+  font-size: 19px;
   text-transform: uppercase;
   padding: 0;
   margin: 0;
 }
+
 
 .portfolio .portfolio-wrap .portfolio-links {
   text-align: center;
@@ -814,7 +816,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #148af9;
+  color: #9d14f9;
 }
 
 .portfolio .portfolio-wrap:hover::before {
