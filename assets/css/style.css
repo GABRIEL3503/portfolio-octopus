@@ -500,10 +500,7 @@ section {
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
-.men{
- display: flex;
- justify-content: center;
-}
+
 .team .member {
   display: flex;
   flex-wrap: wrap;
@@ -602,7 +599,10 @@ section {
   margin-left: 8px;
 }
 
-
+.men{
+  display: flex;
+  justify-content: center;
+ }
 
 
 /*--------------------------------------------------------------
