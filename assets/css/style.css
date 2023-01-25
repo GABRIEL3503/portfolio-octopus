@@ -831,6 +831,8 @@ section {
 }
 
 .portfolio .portfolio-wrap {
+  display: flex;
+  justify-content: center;
   transition: 0.3s;
   position: relative;
   overflow: hidden;
