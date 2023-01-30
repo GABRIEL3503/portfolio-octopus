@@ -272,7 +272,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: white;
+  color: var(--color-principal);
   position: fixed;
   right: 10px;
   top: 10px;
@@ -578,7 +578,7 @@ section {
   border-radius: 50px;
   width: 46px;
   height: 44px;
-  background: #0838682c;
+  background: #eef7ff;
 }
 
 .team .member .social a i {
