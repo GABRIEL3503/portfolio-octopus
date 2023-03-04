@@ -9,6 +9,14 @@
 # General
 --------------------------------------------------------------*/
 
+
+
+.cardo{
+  width: 100%;
+position: relative;
+z-index: 99;
+opacity: .85 ;
+}
 .lista{
   font-weight: 600;
 }
@@ -509,8 +517,9 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   padding: 30px;
   border-radius: 5px;
-  background: #fff;
+  background: #ffffffbd;
   transition: 0.5s;
+  margin-top: 32px;
 }
 
 .team .member .pic {
@@ -1289,3 +1298,14 @@ section {
 .call-to-action .cta-btn:hover {
   background: var(--color-terceary);
 }
+
+
+#particles-js{
+  background-color: #103f96;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+ 
+ 
+}
+
