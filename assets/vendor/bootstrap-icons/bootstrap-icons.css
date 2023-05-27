@@ -1,9 +1,4 @@
-@font-face {
-  font-display: block;
-  font-family: "bootstrap-icons";
-  src: url("./fonts/bootstrap-icons.woff2?24e3eb84d0bcaf83d77f904c78ac1f47") format("woff2"),
-url("./fonts/bootstrap-icons.woff?24e3eb84d0bcaf83d77f904c78ac1f47") format("woff");
-}
+
 
 .bi::before,
 [class^="bi-"]::before,
@@ -22,23 +17,7 @@ url("./fonts/bootstrap-icons.woff?24e3eb84d0bcaf83d77f904c78ac1f47") format("wof
 
 .bi-123::before { content: "\f67f"; }
 .bi-alarm-fill::before { content: "\f101"; }
-.bi-alarm::before { content: "\f102"; }
-.bi-align-bottom::before { content: "\f103"; }
-.bi-align-center::before { content: "\f104"; }
-.bi-align-end::before { content: "\f105"; }
-.bi-align-middle::before { content: "\f106"; }
-.bi-align-start::before { content: "\f107"; }
-.bi-align-top::before { content: "\f108"; }
-.bi-alt::before { content: "\f109"; }
-.bi-app-indicator::before { content: "\f10a"; }
-.bi-app::before { content: "\f10b"; }
-.bi-archive-fill::before { content: "\f10c"; }
-.bi-archive::before { content: "\f10d"; }
-.bi-arrow-90deg-down::before { content: "\f10e"; }
-.bi-arrow-90deg-left::before { content: "\f10f"; }
-.bi-arrow-90deg-right::before { content: "\f110"; }
-.bi-arrow-90deg-up::before { content: "\f111"; }
-.bi-arrow-bar-down::before { content: "\f112"; }
+
 .bi-arrow-bar-left::before { content: "\f113"; }
 .bi-arrow-bar-right::before { content: "\f114"; }
 .bi-arrow-bar-up::before { content: "\f115"; }
